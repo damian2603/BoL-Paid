@@ -1,3 +1,9 @@
+[4.2]
+-Added option to show stun sprite next to HP bar when stun is ready (suggested by user)
+-Checks range for DFG/BFT
+-Option to calculate ignite into combo damage (for use with Activator)
+-Better checking for AA damage with lichbane
+
 [4,11]
 -Removed minion draw circle (wasn't meant to be in release)
 
