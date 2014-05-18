@@ -1,3 +1,7 @@
+[4.25]
+-Fixed script using ult on jungle monsters and minions
+-Auth improvements (more servers and such)
+
 [4.2]
 -Added option to show stun sprite next to HP bar when stun is ready (suggested by user)
 -Checks range for DFG/BFT
