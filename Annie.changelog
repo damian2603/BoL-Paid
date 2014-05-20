@@ -1,3 +1,6 @@
+[4.45]
+-Bug fix with Q farm calculation in 4.4 (typo)
+
 [4.4]
 -Auto farm works a lot better now
 	-Turns on and off by itself when toggled
