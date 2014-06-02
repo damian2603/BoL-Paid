@@ -1,4 +1,8 @@
 [4.85]
+-Q Farm now turns off just on combo (instead of combo & when target was in range)
+-Server stiff
+
+[4.85]
 -Log send bugsplat fix
 
 [4.81]
