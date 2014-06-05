@@ -1,3 +1,6 @@
+[4.87]
+-Attempt to fix bugsplat
+
 [4.86]
 -Q Farm now turns off just on combo (instead of combo & when target was in range)
 -Server stuff
