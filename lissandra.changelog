@@ -1,3 +1,8 @@
+[1.5]
+-Added checks for libs (no more onlogsend bugsplats)
+-Added option to only ult when combo-killable
+-Supports Prodiction 1.1
+
 [1.4]
 -Menu name fix
 -Fixed 2nd E not casting
