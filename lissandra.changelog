@@ -1,3 +1,6 @@
+[1.51]
+-Fixed Prodiction check
+
 [1.5]
 -Added checks for libs (no more onlogsend bugsplats)
 -Added option to only ult when combo-killable
