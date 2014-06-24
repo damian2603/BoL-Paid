@@ -1,3 +1,8 @@
+[1.7]
+-Everything that uses E is improved now (including wall jumps)
+	-This update will make combo a lot smoother
+-Range dynamically increases according to where 2nd E is
+
 [1.62]
 -Changed default prediction to VPrediction for now (works better)
 -Fixed hitchances
