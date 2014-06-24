@@ -1,3 +1,7 @@
+[1.62]
+-Changed default prediction to VPrediction for now (works better)
+-Fixed hitchances
+
 [1.6]
 -Made skillshots only cast when it is likely to hit
 -Better second E logic for melt & safe-melt
