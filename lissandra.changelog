@@ -1,3 +1,8 @@
+[1.6]
+-Made skillshots only cast when it is likely to hit
+-Better second E logic for melt & safe-melt
+-Added option to enable/disable first & second E
+
 [1.55]
 -Removed debug stuff
 
