@@ -1,3 +1,15 @@
+[6.0]
+-Priority arrangement (for LessCastPriority TS mode)
+-Rewrote majority of script (most menus still same)
+-Dynamic & faster combos than ever
+	-Customize combo order in 'Combo' sub-menu
+-Rewrote defensive stun to make it work better and added a few more spells/things
+-Ult menu
+	-Option to turn off ult in combo (yay) [auto turns off ult on tanks/bruisers]
+	-Option to only ult on certain enemies (yay x2)
+	-Option to turn off ult KS
+-Optimized code over all (faster calculations)
+
 [5.2]
 -Made spells cast "in the future" (1/10th of a second faster for each spell about)
 -Tweaked ult with auto stun
