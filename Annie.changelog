@@ -1,3 +1,8 @@
+[6.1]
+-Advanced anti-overkill
+-Fixed draw text displaying wrong combos
+-Fixed auto update (I didn't change to TCP though)
+
 [6.0]
 -Priority arrangement (for LessCastPriority TS mode)
 -Rewrote majority of script (most menus still same)
