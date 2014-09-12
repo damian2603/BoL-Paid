@@ -1,5 +1,15 @@
+[6.5 - Unreleased]
+-Passive stacking customizability
+	-Neater menu
+	-Can choose what amount of pyromania stacks to go up to
+	-Casting W in spawn now selects random point in range to cast to (to make it more human-like)
+-Possibly fixed some bugs
+-Cleaned up a lot of code to make updating easier
+-Removed old code that I ended up rewriting (smaller script now)
+	
+
 [6.4]
--Fixed DFG Problems
+-Bug fixes
 
 [6.3]
 -Added back auto stun
