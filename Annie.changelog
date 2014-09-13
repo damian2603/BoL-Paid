@@ -1,11 +1,19 @@
-[6.5 - Unreleased]
+[6.5]
 -Passive stacking customizability
 	-Neater menu
 	-Can choose what amount of pyromania stacks to go up to
+	-Can add/subtract to number of stacks to go to with the '*' key or the '-' key on the numpad
 	-Casting W in spawn now selects random point in range to cast to (to make it more human-like)
 -Possibly fixed some bugs
 -Cleaned up a lot of code to make updating easier
 -Removed old code that I ended up rewriting (smaller script now)
+-Made it so Selector library doesn't load on start if it is not enabled in the menu
+-Combo improvements and features
+	-Range improvements, ult will now cast at higher range
+	-Spell cast order will always be correct
+	-Less packet spam during combo (improves combo)
+	-New combo feature with combo starting with Q at 3 pyromania stacks that will E right before the Q projectile hits so it stuns
+	-Made DFG/BFT cast more (fixed problems too?)
 	
 
 [6.4]
