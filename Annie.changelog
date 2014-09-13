@@ -14,6 +14,7 @@
 	-Less packet spam during combo (improves combo)
 	-New combo feature with combo starting with Q at 3 pyromania stacks that will E right before the Q projectile hits so it stuns
 	-Made DFG/BFT cast more (fixed problems too?)
+-Disables SAC items if SAC is loaded
 	
 
 [6.4]
