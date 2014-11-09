@@ -1,3 +1,7 @@
+[1.41]
+-Removed packet casting
+-Auth update
+
 [1.4]
 -Prodiction support
 -Ult logic rewrite
